@@ -17,7 +17,6 @@ This project demonstrates a frontend implementation of an Admin Dashboard where 
 ### Role-Based Functionality:
 - **Admin**:
   - Manage users and creators.
-  - Assign or toggle roles between "creator" and "user."
   - Add new members to the system.
 - **Creator**:
   - Create and manage posts.
