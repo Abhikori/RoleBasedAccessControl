@@ -100,7 +100,7 @@ Ensure the following tools are installed on your system:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abhikori/RoleBasedAccessControl  
-   cd VRV-security-assignment  
+   cd RoleBasedAccessControl  
 2. Install dependencies:
    ```bash
    npm install
